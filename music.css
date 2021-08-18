@@ -1,0 +1,41 @@
+body{
+    background-image: url("background.jpg"); 
+    background-size: cover;
+}
+
+
+h1{
+    font-family: DTNoted;
+    font-size: 400%;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px goldenrod;
+}
+
+#question{
+    text-align: center;
+}
+
+input.buttons{
+    float: right;
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    margin:7.5px;
+}
+
+#footer{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin:7.5px;
+}
+
+#answer{
+    width:65%;
+    font-size:35px;
+    font-family: DTNoted;
+}
